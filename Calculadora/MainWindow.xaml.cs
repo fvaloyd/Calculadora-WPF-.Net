@@ -101,9 +101,14 @@ namespace Calculadora
             if (screenResultado.Text == "0") return;
             else
             {
-                this.operacion = oper;
-                this.OperandoA = Convert.ToDouble(screenResultado.Text);
-                screenResultado.Text = "";
+                if (screenResultado.Text == "") return;
+                else
+                {
+                    this.operacion = oper;
+                    this.OperandoA = Convert.ToDouble(screenResultado.Text);
+                    screenResultado.Text = "";
+                }
+                
             }
             
         }
@@ -168,5 +173,6 @@ namespace Calculadora
             OperandoA = 0;
             OperandoB = 0;
         }
+        //hola
     }
 }

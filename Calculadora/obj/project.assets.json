@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Francis Alcantara\\OneDrive\\Escritorio\\calculadora c# WPF\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\Francis Alcantara\\OneDrive\\Documentos\\Aplicaciones-aprobadas\\calculadora c# WPF\\Calculadora\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\Francis Alcantara\\OneDrive\\Escritorio\\calculadora c# WPF\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Users\\Francis Alcantara\\OneDrive\\Documentos\\Aplicaciones-aprobadas\\calculadora c# WPF\\Calculadora\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\Francis Alcantara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Francis Alcantara\\OneDrive\\Escritorio\\calculadora c# WPF\\Calculadora\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\Francis Alcantara\\OneDrive\\Documentos\\Aplicaciones-aprobadas\\calculadora c# WPF\\Calculadora\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
